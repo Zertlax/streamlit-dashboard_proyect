@@ -37,7 +37,7 @@ Este proyecto consiste en una aplicación web interactiva construida con **Strea
 
 Este proyecto ha sido desplegado utilizando [Render](https://render.com/), lo que permite que la aplicación esté disponible directamente en la web.
 
-➡️ **Link de la app**: _[Agrega aquí la URL después del despliegue]_
+➡️ **Link de la app**: _[https://vehiculos-en-venta-dashboard.onrender.com]_
 
 ## 📦 Instalación local (opcional)
 
