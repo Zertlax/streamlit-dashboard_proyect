@@ -1,0 +1,15 @@
+# Entorno virtual
+.venv/
+vehicles_env/
+
+# Archivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de configuración de entorno
+pyvenv.cfg
+
+# Archivos temporales
+*.log
+*.tmp
